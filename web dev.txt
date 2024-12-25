@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Istanbul Cuisine</title>
+    <link rel="icon" type="image/x-icon" href="images/icon.png"/>
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+
+<body>
+    <!-- Navigation bar links -->
+    <nav class="navbar">
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="cuisine.html">Cuisine</a></li>
+            <li><a href="nightlife.html">Nightlife</a></li>
+            <li><a href="markets.html">Markets</a></li>
+            <li><a href="bosporus.html">Bosporus</a></li>
+        </ul>
+    </nav>
+
+    <!-- Cuisine Section -->
+    <section class="info-section">
+        <h2 class="section-title">Istanbul Cuisine</h2>
+        <p>Istanbul's cuisine reflects its rich cultural history and diverse influences, blending flavors from the Mediterranean, Middle East, and Asia. The city is known for its delicious street food, including kebabs, simit, and lahmacun, as well as its vibrant spice markets and tea culture.</p>
+        <p>Traditional dishes such as meze, baklava, and Turkish delight showcase the unique flavors and culinary traditions of Istanbul. The city offers a wide range of dining experiences, from bustling food markets to fine dining restaurants overlooking the Bosporus.</p>
+        <img src="images/cuisine1.jpg" alt="Traditional Istanbul Cuisine" class="info-image">
+        <img src="images/cuisine2.jpg" alt="Istanbul Street Food" class="info-image">
+    </section>
+</body>
+
+</html>

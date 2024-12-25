@@ -105,25 +105,3 @@
   line-height: 1.6;
   text-align: justify;
 }
-/* Info section styling */
-.info-section {
-  padding: 20px;
-}
-
-/* Flexbox container to align paragraph and image */
-.info-content {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-.info-content p {
-  flex: 1;
-  margin-right: 20px;
-}
-
-.info-image {
-  width: 50%;
-  max-width: 300px;
-  border-radius: 8px;
-}
